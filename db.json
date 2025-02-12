@@ -4,25 +4,25 @@
       "id": "1",
 	  "type": "Master",
 	  "title": "Archives and Records Administration",
-	  "date": "Anticipated May 2025",
+	  "date": "Anticipated May 2025"
     },
     {
       "id": "2",
 	  "type": "Master",
 	  "title": "Library and Information Science",
-	  "date": "Completed December 2015",
+	  "date": "Completed December 2015"
     },
     {
       "id": "3",
 	  "type": "Master",
 	  "title": "Information Systems",
-	  "date": "Completed November 2010",
+	  "date": "Completed November 2010"
     },
     {
       "id": "4",
 	  "type": "Bachelor",
 	  "title": "Computer Science",
-	  "date": "Completed April 2024",
+	  "date": "Completed April 2024"
     },
     {
       "id": "5",
@@ -33,11 +33,11 @@
   ],
   "users": [
     {
-	  "id": "1"
-	  "name": "Kate",
+	  "id": "1",
+	  "name": "Kate"
     },
     {
-	  "id": "2"
+	  "id": "2",
 	  "name": "Andrew"
     }
   ],
