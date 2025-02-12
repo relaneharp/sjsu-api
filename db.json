@@ -1,0 +1,48 @@
+{
+  "degrees": [
+    {
+      "id": "1",
+	  "type": "Master",
+	  "title": "Archives and Records Administration",
+	  "date": "Anticipated May 2025",
+    },
+    {
+      "id": "2",
+	  "type": "Master",
+	  "title": "Library and Information Science",
+	  "date": "Completed December 2015",
+    },
+    {
+      "id": "3",
+	  "type": "Master",
+	  "title": "Information Systems",
+	  "date": "Completed November 2010",
+    },
+    {
+      "id": "4",
+	  "type": "Bachelor",
+	  "title": "Computer Science",
+	  "date": "Completed April 2024",
+    },
+    {
+      "id": "5",
+	  "type": "Bachelor",
+	  "title": "Communication Studies",
+	  "date": "Completed December 1997",
+    }
+  ],
+  "users": [
+    {
+	  "id": "1"
+	  "name": "Kate",
+    },
+    {
+	  "id": "2"
+	  "name": "Andrew"
+    }
+  ],
+  "collection": {
+	"description": "Degrees completed and in progress",
+	"creator": "renee harper"
+  }
+}
