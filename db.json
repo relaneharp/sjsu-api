@@ -35,12 +35,12 @@
     {
 	  "id": "1",
 	  "name": "Kate",
-	  "ItemID": "4"
+	  "ItemId": "4"
     },
     {
 	  "id": "2",
 	  "name": "Andrew",
-	  "ItemID": "5"
+	  "ItemId": "5"
     }
   ],
   "collection": {
