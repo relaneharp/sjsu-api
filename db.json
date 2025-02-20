@@ -34,11 +34,13 @@
   "users": [
     {
 	  "id": "1",
-	  "name": "Kate"
+	  "name": "Kate",
+	  "ItemID": "4"
     },
     {
 	  "id": "2",
-	  "name": "Andrew"
+	  "name": "Andrew",
+	  "ItemID": "5"
     }
   ],
   "collection": {
